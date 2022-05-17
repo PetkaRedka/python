@@ -1,0 +1,4 @@
+First второй 123
+File for reading only
+Файл для чтения
+Коnec
